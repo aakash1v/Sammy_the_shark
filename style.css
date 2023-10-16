@@ -7,7 +7,7 @@
 }
 body{
     font-family:  Helvetica, sans-serif;
-    background-image: url("../img/background-image.jpeg") ;
+    background-image: url("background-image.jpeg") ;
     background-size: cover;  
 }
 .profile-small{
@@ -42,7 +42,7 @@ body{
 }
 /* Large profile image  */
 .large-profile{
-    background:url("../img/large-profile.jpeg");
+    background:url("large-profile.jpeg");
     background-size: cover;
     background-position: center;
 }
@@ -69,7 +69,7 @@ body{
 }
 /* color and Images for Projects container  */
 .project-1{
-    background:url("../img/project-left.jpeg   ");
+    background:url("project-left.jpeg   ");
     background-size: cover;
 }
 .project-2 {
@@ -88,7 +88,7 @@ body{
     background-color: #ffffff00;
 }
 .project-8{
-    background:url("../img/project-right.jpeg");
+    background:url("project-right.jpeg");
     background-size: cover;
 }
 
