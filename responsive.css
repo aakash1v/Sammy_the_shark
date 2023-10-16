@@ -1,0 +1,47 @@
+@media screen and (max-width:1218px) {
+    *{
+        box-sizing: content-box;
+        margin: 0;
+    }
+   
+    .cloumn-2{
+        display: block;        
+    }
+    #para{
+        line-height: 1.2;
+        
+    }
+    
+
+    .profile-small{
+        width: 150px;
+    }
+    .header{
+        margin: 0px;
+    }
+
+    /* projects  */
+    .project-text{
+        font-size: 15px;
+        padding: auto 0;
+
+    }
+    .column-4{
+        height: 100px;
+     
+    }
+    .quote{
+        font-size: 10px;
+    }
+    .column-quote {
+        display: none;
+    }
+
+    .column-1{
+        box-sizing: border-box;
+        margin: 20px;
+        padding: 0;
+        font-size: 12px;
+    }
+
+}
